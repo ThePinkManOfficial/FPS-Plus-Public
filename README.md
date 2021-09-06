@@ -1,4 +1,4 @@
-![](/art/readme/logo.png)
+![](/art/logo (1).png)
 
 *Finally, it's open source.*
 
