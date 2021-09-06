@@ -1,4 +1,4 @@
-![](/art/logo (1).png)
+![](/art/logo(1).png)
 
 *Finally, it's open source.*
 
