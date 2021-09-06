@@ -1,7 +1,7 @@
 ![](/art/logo.png)
 
-*Finally, it's open source.*
-
+# Friday Night Funkin' X-Side Week 7
+  This is a rip of the Week 7 update of FNF, Assets may be changed.
 # Friday Night Funkin' FPS Plus
 Friday Night Funkin' FPS Plus is a mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.
 
