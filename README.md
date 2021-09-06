@@ -1,6 +1,6 @@
 ![](/art/logo.png)
 
-# Friday Night Funkin' X-Side Week 7
+# Friday Night Funkin' Week 7
   This is a rip of the Week 7 update of FNF, Assets may be changed.
 *You can find the week 7 update here: [Newgrounds](https://www.newgrounds.com/portal/view/770371) 
 ## Features
